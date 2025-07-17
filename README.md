@@ -12,7 +12,7 @@ e ao longo prazo.
 * 📚️ Estudando Python e Desenvolvimento WEB
 * 🌐 Interessado em Redes e Cibersegurança
 
-<img src="/images/password.jpg" width="1000px" height="250px"/>
+<img src="images/password.jpg" width="1000px" height="250px"/>
 
 ## Linguagens👨🏻‍💻
 
@@ -31,5 +31,13 @@ SOs e distros linux que já tive a experiência de utilizar no meu Workflow, no 
 Ferramentas que me auxiliam nas atividades acadêmicas e projetos pessoais. Organização sempre foi minha prioridade, seja em ambientes fisícos ou virtuais, vai além de uma lista de notas ou um post-it colorido, é uma forma de não perder o controle com o turbilhão de informações que nos atinge diáriamente.
 
 [![My Skills](https://skillicons.dev/icons?i=obsidian,vscode,notion,discord)](https://skillicons.dev)
+
+## Metas de Aperfeiçoamento
+
+Algumas metas que desejo alcançar para melhoras o nível de construção dos meus projetos e deixa-los mais robustos.
+
+[![My Skills](https://skillicons.dev/icons?i=django,flask,mysql)](https://skillicons.dev)
+
+
 
 
