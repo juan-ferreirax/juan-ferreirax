@@ -12,6 +12,8 @@ e ao longo prazo.
 * 📚️ Estudando Python e Desenvolvimento WEB
 * 🌐 Interessado em Redes e Cibersegurança
 
+<img src="images/password.jpg" width="1000px" height="250px"/>
+
 ## Linguagens👨🏻‍💻
 
 Linguagens que possuo maior experiência e afinidade, atualmente tenho dedicado meus estudos para criação de programas e projetos com <a href="https://www.python.org/">Python</a>. É uma linguagem versátil que se integra facilmente a outras tecnologias front-end e back-end possibilitando assim que eu coloque em prática o que vejo nos meus estudos de cibersegurança, redes de computadores, análise de dados e automação.
