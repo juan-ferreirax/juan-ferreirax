@@ -16,7 +16,7 @@ e ao longo prazo.
 
 ## 👨🏻‍💻 Linguagens
 
-Linguagens que possuo maior experiência e afinidade, atualmente tenho dedicado meus estudos para criação de programas e projetos com <a href="https://www.python.org/">Python</a>. É uma linguagem versátil que se integra facilmente a outras tecnologias front-end e back-end possibilitando assim que eu coloque em prática o que vejo nos meus estudos de cibersegurança, redes de computadores, análise de dados e automação.
+Linguagens que possuo maior experiência e afinidade, atualmente tenho dedicado meus estudos para criação de programas e projetos com <a href="https://www.python.org/">Python</a>. É uma linguagem versátil que se integra facilmente a outras tecnologias front-end e back-end possibilitando assim que eu coloque em prática o que vejo nos meus estudos de cibersegurança e análise de dados.
 
 [![My Skills](https://skillicons.dev/icons?i=python,md,bash,html,css,js)](https://skillicons.dev)
 
@@ -38,6 +38,16 @@ Alguns frameworks e linguagens que venho explorando para aperfeiçoar meus conhe
 
 [![My Skills](https://skillicons.dev/icons?i=bootstrap,django,flask,mysql)](https://skillicons.dev)
 
+## ⭐️ Destaques
+
+Alguns projetos acadêmicos e pessoais que merecem maior visibilidade.
+
+* <a href="https://github.com/juan-ferreirax/dashboard-sad">Dashboard feito em Python</a>
+* <a href="https://github.com/juan-ferreirax/foz-city-guide">Guia Turístico de Foz do Iguaçu</a>
 
 
+
+Uso o Git e o Github a pouco tempo, mas já percebo o quao poderosas são essas ferramentas, mais projetos irão aparecer aqui com o tempo, enquanto isso que tal nos conectarmos? Sinta-se a vontade!
+
+[![My Skills](https://skillicons.dev/icons?i=instagram)](https://www.instagram.com/juan.ferreirax/) [![My Skills](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/juan-pablo-ferreira-costa/)
 
