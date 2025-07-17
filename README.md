@@ -12,7 +12,7 @@ e ao longo prazo.
 * 📚️ Estudando Python e Desenvolvimento WEB
 * 🌐 Interessado em Redes e Cibersegurança
 
-<img src="images/password.jpg" width="1000px" height="250px"/>
+<img src="/images/password.jpg" width="1000px" height="250px"/>
 
 ## Linguagens👨🏻‍💻
 
