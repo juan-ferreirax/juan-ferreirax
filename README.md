@@ -1,8 +1,8 @@
 # Bem vindo, eu sou o Juan! 👋
 
-<p>
+<strong><p>
 Analista de Sistemas em formação, cineasta de cibersegurança & análise de dados, procuro resolver problemas de forma simples, clara e objetiva utilizando tecnologias modernas e intuitivas. Tenho focado meus estudos em Python, Linux e Hacking com o objetivo de transformar meus aprendizados em soluções aplicáveis em ocorrências pontuais e ao longo prazo.
-</p>
+</p></strong>
 
 ## Sobre mim
 
