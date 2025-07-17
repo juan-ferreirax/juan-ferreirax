@@ -37,7 +37,7 @@ SOs e distros linux que já tive a experiência de utilizar no meu Workflow, no 
 
 Ferramentas que me auxiliam nas atividades acadêmicas e projetos pessoais. Organização sempre foi minha prioridade, seja em ambientes fisícos ou virtuais, vai além de uma lista de notas ou um post-it colorido, é uma forma de não perder o controle com o turbilhão de informações que nos atinge diáriamente.
 
-[![My Skills](https://skillicons.dev/icons?i=obsidian,vscode,git,github,notion,discord)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=obsidian,notion,vscode,git,github,discord)](https://skillicons.dev)
 
 ## 🧠 Metas de Aperfeiçoamento
 
