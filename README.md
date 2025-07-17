@@ -34,7 +34,7 @@ Ferramentas que me auxiliam nas atividades acadêmicas e projetos pessoais. Orga
 
 ## 🧠 Metas de Aperfeiçoamento
 
-Alguns frameworks e linguagens que desejo aperfeiçoar meus conhecimentos, para melhorar o nível de construção dos meus projetos e deixa-los mais robustos.
+Alguns frameworks e linguagens que venho explorando para aperfeiçoar meus conhecimentos, com o intuito de melhorar o nível de construção dos meus projetos e deixa-los mais robustos.
 
 [![My Skills](https://skillicons.dev/icons?i=bootstrap,django,flask,mysql)](https://skillicons.dev)
 
