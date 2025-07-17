@@ -4,10 +4,10 @@ Analista de Sistemas em formação, cineasta de cibersegurança & redes de compu
 
 ## Sobre mim
 
-* Técnico em informática pelo <a href="https://www.ifnmg.edu.br/docs/344-portal/salinas/salinas-cursos-tecnicos/tecnico-em-informatica-integrado/13549-tecnico-em-informatica-integrado">IFNMG</a>
-* Graduando em Sistemas de Informação pela <a href="https://portal.ufvjm.edu.br/a-universidade/cursos/sin">UFVJM</a>
-* Estudando Python, Linux e Front-end
-* Interessado em Cybersecurity e Redes
+* 🎓️ Técnico em informática pelo <a href="https://www.ifnmg.edu.br/docs/344-portal/salinas/salinas-cursos-tecnicos/tecnico-em-informatica-integrado/13549-tecnico-em-informatica-integrado">IFNMG</a>
+* 👨🏻‍💻 Graduando em Sistemas de Informação pela <a href="https://portal.ufvjm.edu.br/a-universidade/cursos/sin">UFVJM</a>
+* 📚️ Estudando Python e Desenvolvimento WEB
+* 🌐 Interessado em Redes e Cibersegurança
 
 ## Linguagens👨🏻‍💻
 
