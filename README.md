@@ -1,6 +1,6 @@
 # Bem vindo, eu sou o Juan! 👋
 
-Analista de Sistemas em formação, cineasta de cibersegurança & redes de computadores, procuro resolver problemas de forma simples, clara e objetiva utilizando tecnologias modernas e intuitivas. Tenho focado meus estudos em Python e Desenvolvimento WEB com o objetivo de transformar meus aprendizados em soluções aplicáveis em ocorrências pontuais e ao longo prazo.
+Analista de Sistemas em formação, cineasta de cibersegurança & redes de computadores, procuro resolver problemas de forma simples, clara e objetiva utilizando tecnologias modernas e intuitivas. Tenho focado os meus estudos em Python e Desenvolvimento WEB com o objetivo de transformar meus aprendizados em soluções aplicáveis em ocorrências pontuais e ao longo prazo.
 
 ## Sobre mim
 
