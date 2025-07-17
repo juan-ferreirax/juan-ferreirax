@@ -18,7 +18,7 @@ e ao longo prazo.
 
 Linguagens que possuo maior experiência e afinidade, atualmente tenho dedicado meus estudos para criação de programas e projetos com <a href="https://www.python.org/">Python</a>. É uma linguagem versátil que se integra facilmente a outras tecnologias front-end e back-end possibilitando assim que eu coloque em prática o que vejo nos meus estudos de cibersegurança, redes de computadores, análise de dados e automação.
 
-[![My Skills](https://skillicons.dev/icons?i=python,bash,html,css,js)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=python,md,bash,html,css,js)](https://skillicons.dev)
 
 ## Sistemas Operacionais💻️
 
@@ -30,7 +30,7 @@ SOs e distros linux que já tive a experiência de utilizar no meu Workflow, no 
 
 Ferramentas que me auxiliam nas atividades acadêmicas e projetos pessoais. Organização sempre foi minha prioridade, seja em ambientes fisícos ou virtuais, vai além de uma lista de notas ou um post-it colorido, é uma forma de não perder o controle com o turbilhão de informações que nos atinge diáriamente.
 
-[![My Skills](https://skillicons.dev/icons?i=obsidian,vscode,notion,discord)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=obsidian,vscode,git,github,notion,discord)](https://skillicons.dev)
 
 ## Metas de Aperfeiçoamento
 
