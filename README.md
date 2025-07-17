@@ -1,12 +1,12 @@
 # Bem vindo, eu sou o Juan! 👋
 
-Analista de Sistemas em formação, cineasta de cibersegurança & análise de dados, procuro resolver problemas de forma simples, clara e objetiva utilizando tecnologias modernas e intuitivas. Tenho focado meus estudos em Python, Linux e Hacking com o objetivo de transformar meus aprendizados em soluções aplicáveis em ocorrências pontuais e ao longo prazo.
+Analista de Sistemas em formação, cineasta de cibersegurança & redes de computadores, procuro resolver problemas de forma simples, clara e objetiva utilizando tecnologias modernas e intuitivas. Tenho focado meus estudos em Python, Linux e Hacking com o objetivo de transformar meus aprendizados em soluções aplicáveis em ocorrências pontuais e ao longo prazo.
 
 ## Sobre mim
 
 * Técnico em informática pelo <a href="https://www.ifnmg.edu.br/docs/344-portal/salinas/salinas-cursos-tecnicos/tecnico-em-informatica-integrado/13549-tecnico-em-informatica-integrado">IFNMG</a>
 * Graduando em Sistemas de Informação pela <a href="https://portal.ufvjm.edu.br/a-universidade/cursos/sin">UFVJM</a>
-* Estudando Python, Linux e Data-Analist
+* Estudando Python, Linux e Front-end
 * Interessado em Cybersecurity e Redes
 
 ## Linguagens👨🏻‍💻
