@@ -31,7 +31,7 @@ Linguagens que possuo maior experiência e afinidade, atualmente tenho dedicado 
 
 SOs e distros linux que já tive a experiência de utilizar no meu Workflow, no meu dia a dia utilizo o <a href="https://ubuntu.com/download/desktop">Ubuntu 24.04.2 LTS</a> sob o tema Kali Dark.
 
-[![Windows](https://skillicons.dev/icons?i=windows)](https://www.microsoft.com/pt-br/windows) [![Linux](https://skillicons.dev/icons?i=linux)](https://www.kernel.org/) [![Debian](https://skillicons.dev/icons?i=debian)](https://www.debian.org/) [![Ubuntu](https://skillicons.dev/icons?i=ubuntu)](https://ubuntu.com/) [![Kali](https://skillicons.dev/icons?i=kali)](https://www.kali.org/)
+[![Windows](https://skillicons.dev/icons?i=windows)](https://www.microsoft.com/pt-br/windows) [![Linux](https://skillicons.dev/icons?i=linux)](https://www.kernel.org/) [![Debian](https://skillicons.dev/icons?i=debian)](https://www.debian.org/) [![Ubuntu](https://skillicons.dev/icons?i=ubuntu)](https://ubuntu.com/) [![Kali](https://skillicons.dev/icons?i=kali)](https://www.kali.org/) [![mint](https://skillicons.dev/icons?i=mint)](https://linuxmint.com/)
 
 ## 📚️ Estudos e Organização
 
