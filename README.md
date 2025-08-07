@@ -9,8 +9,8 @@ pontuais e ao longo prazo.
 
 * 🎓️ Técnico em informática pelo <a href="https://www.ifnmg.edu.br/docs/344-portal/salinas/salinas-cursos-tecnicos/tecnico-em-informatica-integrado/13549-tecnico-em-informatica-integrado">IFNMG</a>
 * 👨🏻‍💻 Graduando em Sistemas de Informação pela <a href="https://portal.ufvjm.edu.br/a-universidade/cursos/sin">UFVJM</a>
-* 📚️ Estudando Python e Desenvolvimento WEB
-* 🌐 Interessado em Redes e Cibersegurança
+* 📚️ Estudando Python e Segurança da Informação
+* 🌐 Interessado em Redes, Dados e Linux
 
 <img src="images/password.jpg" width="1000px" height="250px"/>
 
