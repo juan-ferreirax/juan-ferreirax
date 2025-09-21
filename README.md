@@ -25,6 +25,8 @@ Alguns projetos acadêmicos e pessoais que merecem maior visibilidade.
 
 Linguagens que possuo maior experiência e afinidade, atualmente tenho dedicado meus estudos para criação de programas e projetos com <a href="https://www.python.org/">Python</a>. É uma linguagem versátil que se integra facilmente a outras tecnologias front-end e back-end possibilitando assim que eu coloque em prática o que vejo nos meus estudos de cibersegurança e análise de dados.
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=juan-ferreirax&layout=compact&theme=tokyonight&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
+
 [![Python](https://skillicons.dev/icons?i=python)](https://www.python.org/) [![Markdown](https://skillicons.dev/icons?i=md)](https://www.markdownguide.org/) [![Bash](https://skillicons.dev/icons?i=bash)](https://www.gnu.org/software/bash/) [![HTML](https://skillicons.dev/icons?i=html)](https://developer.mozilla.org/pt-BR/docs/Web/HTML) [![CSS](https://skillicons.dev/icons?i=css)](https://developer.mozilla.org/pt-BR/docs/Web/CSS) [![JavaScript](https://skillicons.dev/icons?i=js)](https://developer.mozilla.org/pt-BR/docs/Web/JavaScript)
 
 ## 💻️ Sistemas Operacionais
