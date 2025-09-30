@@ -44,21 +44,42 @@ Linguagens que possuo maior experiência e afinidade, atualmente tenho dedicado 
 
 SOs e distros linux que já tive a experiência de utilizar no meu Workflow, no meu dia a dia utilizo o <a href="https://ubuntu.com/download/desktop">Ubuntu 24.04.2 LTS</a> sob o tema Kali Dark.
 
-[![Windows](https://skillicons.dev/icons?i=windows)](https://www.microsoft.com/pt-br/windows) [![Linux](https://skillicons.dev/icons?i=linux)](https://www.kernel.org/) [![Debian](https://skillicons.dev/icons?i=debian)](https://www.debian.org/) [![Ubuntu](https://skillicons.dev/icons?i=ubuntu)](https://ubuntu.com/) [![Kali](https://skillicons.dev/icons?i=kali)](https://www.kali.org/) [![mint](https://skillicons.dev/icons?i=mint)](https://linuxmint.com/)
+<p align="center">
+    <a href="https://skillicons.dev/icons?i=windows"><img alt="Windows" src="https://skillicons.dev/icons?i=windows"></a>
+    <a href="https://www.kernel.org/"><img alt="Linux" src="https://skillicons.dev/icons?i=linux"></a>
+    <a href="https://www.debian.org/"><img alt="Debian" src="https://skillicons.dev/icons?i=debian"></a>
+    <a href="https://ubuntu.com/"><img alt="Ubuntu" src="https://skillicons.dev/icons?i=ubuntu"></a>
+    <a href="https://www.kali.org/"><img alt="Kali" src="https://skillicons.dev/icons?i=kali"></a>
+    <a href="https://linuxmint.com/"><img alt="Mint" src="https://skillicons.dev/icons?i=mint"></a>
+</p>
 
 ## 📚️ Estudos e Organização
 
 Ferramentas que me auxiliam nas atividades acadêmicas e projetos pessoais. Organização sempre foi minha prioridade, seja em ambientes fisícos ou virtuais, vai além de uma lista de notas ou um post-it colorido, é uma forma de não perder o controle com o turbilhão de informações que nos atinge diáriamente.
 
-[![Obsidian](https://skillicons.dev/icons?i=obsidian)](https://obsidian.md/) [![Notion](https://skillicons.dev/icons?i=notion)](https://www.notion.so/) [![VSCode](https://skillicons.dev/icons?i=vscode)](https://code.visualstudio.com/) [![Git](https://skillicons.dev/icons?i=git)](https://git-scm.com/) [![GitHub](https://skillicons.dev/icons?i=github)](https://github.com/) [![Discord](https://skillicons.dev/icons?i=discord)](https://discord.com/)
+<p align="center">
+    <a href="https://obsidian.md/"><img alt="Obsidian" src="https://skillicons.dev/icons?i=obsidian"></a>
+    <a href="https://www.notion.so/"><img alt="Notion" src="https://skillicons.dev/icons?i=notion"></a>
+    <a href="https://code.visualstudio.com/"><img alt="VSCode" src="https://skillicons.dev/icons?i=vscode"></a>
+    <a href="https://git-scm.com/"><img alt="Git" src="https://skillicons.dev/icons?i=git"></a>
+    <a href="https://github.com/"><img alt="GitHub" src="https://skillicons.dev/icons?i=github"></a>
+    <a href="https://discord.com/"><img alt="Discord" src="https://skillicons.dev/icons?i=discord"></a>
+</p>
 
 ## 🧠 Metas de Aperfeiçoamento
 
 Alguns frameworks e linguagens que venho explorando para aperfeiçoar meus conhecimentos, com o intuito de melhorar o nível de construção dos meus projetos e deixa-los mais robustos.
 
-[![Bootstrap](https://skillicons.dev/icons?i=bootstrap)](https://getbootstrap.com/) [![Django](https://skillicons.dev/icons?i=django)](https://www.djangoproject.com/) [![Flask](https://skillicons.dev/icons?i=flask)](https://flask.palletsprojects.com/) [![MySQL](https://skillicons.dev/icons?i=mysql)](https://www.mysql.com/)
+<p align="center">
+    <a href="https://getbootstrap.com/"><img alt="Bootstrap" src="https://skillicons.dev/icons?i=bootstrap"></a>
+    <a href="https://www.djangoproject.com/"><img alt="Django" src="https://skillicons.dev/icons?i=django"></a>
+    <a href="https://flask.palletsprojects.com/"><img alt="Flask" src="https://skillicons.dev/icons?i=flask"></a>
+    <a href="https://www.mysql.com/"><img alt="MySQL" src="https://skillicons.dev/icons?i=mysql"></a>
+</p>
 
 Uso o Git e o Github a pouco tempo, mas já percebo o quao poderosas são essas ferramentas, mais projetos irão aparecer aqui com o tempo, enquanto isso que tal nos conectarmos? Sinta-se a vontade!
 
-[![Instagram](https://skillicons.dev/icons?i=instagram)](https://www.instagram.com/juan.ferreirax/) [![Linkedin](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/juan-pablo-ferreira-costa/)
-
+<p align="center">
+    <a href="https://www.instagram.com/juan.ferreirax/"><img alt="Instagram" src="https://skillicons.dev/icons?i=instagram"></a>
+    <a href="https://www.linkedin.com/in/juan-pablo-ferreira-costa/"><img alt="Linkedin" src="https://skillicons.dev/icons?i=linkedin"></a>
+</p>
