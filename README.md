@@ -23,11 +23,22 @@ Alguns projetos acadêmicos e pessoais que merecem maior visibilidade.
 
 ## 👨🏻‍💻 Linguagens
 
-Linguagens que possuo maior experiência e afinidade, atualmente tenho dedicado meus estudos para criação de programas e projetos com <a href="https://www.python.org/">Python</a>. É uma linguagem versátil que se integra facilmente a outras tecnologias front-end e back-end possibilitando assim que eu coloque em prática o que vejo nos meus estudos de cibersegurança e análise de dados.
+Linguagens que possuo maior experiência e afinidade, atualmente tenho dedicado meus estudos para criação de programas e projetos com <a href="https://www.python.org/">Python</a>. É uma linguagem versátil que se integra facilmente a outras tecnologias front-end e back-end possibilitando assim que eu coloque em prática o que vejo nos meus estudos de cibersegurança e análise de dados.<br><br>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=juan-ferreirax&layout=compact&theme=tokyonight&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
+<p align="center">
+    <a href="https://github.com/anuraghazra/github-readme-stats">
+        <img alt="Top Langs" src="https://github-readme-stats.vercel.app/api/top-langs/?username=juan-ferreirax&layout=compact&theme=tokyonight&hide_border=true">
+    </a>
+</p>
 
-[![Python](https://skillicons.dev/icons?i=python)](https://www.python.org/) [![Markdown](https://skillicons.dev/icons?i=md)](https://www.markdownguide.org/) [![Bash](https://skillicons.dev/icons?i=bash)](https://www.gnu.org/software/bash/) [![HTML](https://skillicons.dev/icons?i=html)](https://developer.mozilla.org/pt-BR/docs/Web/HTML) [![CSS](https://skillicons.dev/icons?i=css)](https://developer.mozilla.org/pt-BR/docs/Web/CSS) [![JavaScript](https://skillicons.dev/icons?i=js)](https://developer.mozilla.org/pt-BR/docs/Web/JavaScript)
+<p align="center">
+    <a href="https://www.python.org/"><img alt="Python" src="https://skillicons.dev/icons?i=python"></a>
+    <a href="https://www.markdownguide.org/"><img alt="Markdown" src="https://skillicons.dev/icons?i=md"></a>
+    <a href="https://www.gnu.org/software/bash/"><img alt="Bash" src="https://skillicons.dev/icons?i=bash"></a>
+    <a href="https://developer.mozilla.org/pt-BR/docs/Web/HTML"><img alt="HTML" src="https://skillicons.dev/icons?i=html"></a>
+    <a href="https://developer.mozilla.org/pt-BR/docs/Web/CSS"><img alt="CSS" src="https://skillicons.dev/icons?i=css"></a>
+    <a href="https://developer.mozilla.org/pt-BR/docs/Web/JavaScript"><img alt="JavaScript" src="https://skillicons.dev/icons?i=js"></a>
+</p>
 
 ## 💻️ Sistemas Operacionais
 
