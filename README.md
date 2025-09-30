@@ -23,7 +23,7 @@ Alguns projetos acadêmicos e pessoais que merecem maior visibilidade.
 
 ## 👨🏻‍💻 Linguagens
 
-Linguagens que possuo maior experiência e afinidade, atualmente tenho dedicado meus estudos para criação de programas e projetos com <a href="https://www.python.org/">Python</a>. É uma linguagem versátil que se integra facilmente a outras tecnologias front-end e back-end possibilitando assim que eu coloque em prática o que vejo nos meus estudos de cibersegurança e análise de dados.<br><br>
+Linguagens que possuo maior experiência e afinidade, atualmente tenho dedicado meus estudos para criação de programas e projetos com <a href="https://www.python.org/">Python</a>. É uma linguagem versátil que se integra facilmente a outras tecnologias front-end e back-end as quais utilizo para colocar prática os meus estudos de cibersegurança e análise de dados.<br><br>
 
 <p align="center">
     <a href="https://github.com/anuraghazra/github-readme-stats">
