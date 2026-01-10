@@ -34,12 +34,22 @@ Linguagens e Frameworks que possuo maior experiência e afinidade, atualmente te
 
 <p align="center">
     <a href="https://www.python.org/"><img alt="Python" src="https://skillicons.dev/icons?i=python"></a>
-    <a href="https://fastapi.tiangolo.com/"><img alt="FastAPI" src="https://skillicons.dev/icons?i=fastapi"></a>
     <a href="https://www.markdownguide.org/"><img alt="Markdown" src="https://skillicons.dev/icons?i=md"></a>
     <a href="https://www.gnu.org/software/bash/"><img alt="Bash" src="https://skillicons.dev/icons?i=bash"></a>
     <a href="https://developer.mozilla.org/pt-BR/docs/Web/HTML"><img alt="HTML" src="https://skillicons.dev/icons?i=html"></a>
     <a href="https://developer.mozilla.org/pt-BR/docs/Web/CSS"><img alt="CSS" src="https://skillicons.dev/icons?i=css"></a>
     <a href="https://developer.mozilla.org/pt-BR/docs/Web/JavaScript"><img alt="JavaScript" src="https://skillicons.dev/icons?i=js"></a>
+</p>
+
+## 📚️ Estudando
+
+Tecnologias que tem dispertado o meu interesse e que venho estudando para aperfeiçoar o nível de construção dos meus projetos.
+
+<p align="center">
+    <a href="https://fastapi.tiangolo.com/"><img alt="FastAPI" src="https://skillicons.dev/icons?i=fastapi"></a>
+    <a href="https://insomnia.rest/"><img alt="Insomnia" src="https://cdn.simpleicons.org/insomnia/5849BE" width="48" height="48"></a>
+    <a href="https://developer.mozilla.org/pt-BR/docs/Web/JavaScript"><img alt="JavaScript" src="https://skillicons.dev/icons?i=js"><a>
+    <a href="https://www.typescriptlang.org/"><img alt="TypeScript" src="https://skillicons.dev/icons?i=ts"></a>
 </p>
 
 ## 💻️ Sistemas Operacionais
@@ -55,14 +65,13 @@ SOs e distros linux que já tive a experiência de utilizar no meu Workflow, no 
     <a href="https://linuxmint.com/"><img alt="Mint" src="https://skillicons.dev/icons?i=mint"></a>
 </p>
 
-## 📚️ Estudos e Organização
+## 📋️ Organização
 
 Ferramentas que me auxiliam nas atividades acadêmicas e projetos pessoais. Organização sempre foi minha prioridade, seja em ambientes fisícos ou virtuais, vai além de uma lista de notas ou um post-it colorido, é uma forma de não perder o controle com o turbilhão de informações que nos atinge diáriamente.
 
 <p align="center">
     <a href="https://obsidian.md/"><img alt="Obsidian" src="https://skillicons.dev/icons?i=obsidian"></a>
     <a href="https://www.notion.so/"><img alt="Notion" src="https://skillicons.dev/icons?i=notion"></a>
-    <a href="https://insomnia.rest/"><img alt="Insomnia" src="https://cdn.simpleicons.org/insomnia/5849BE" width="48" height="48"></a>
     <a href="https://code.visualstudio.com/"><img alt="VSCode" src="https://skillicons.dev/icons?i=vscode"></a>
     <a href="https://git-scm.com/"><img alt="Git" src="https://skillicons.dev/icons?i=git"></a>
     <a href="https://github.com/"><img alt="GitHub" src="https://skillicons.dev/icons?i=github"></a>
@@ -70,9 +79,9 @@ Ferramentas que me auxiliam nas atividades acadêmicas e projetos pessoais. Orga
     
 </p>
 
-## 🧠 Metas de Aperfeiçoamento
+## 🧠 Metas de Aprendizado
 
-Alguns frameworks e linguagens que tenho curiosidade e vontade de aprender para aperfeiçoar meus conhecimentos, com o intuito de melhorar o nível de construção dos meus projetos.
+Alguns frameworks e linguagens que tenho curiosidade e vontade de aprender.
 
 <p align="center">
     <a href="https://getbootstrap.com/"><img alt="Bootstrap" src="https://skillicons.dev/icons?i=bootstrap"></a>
@@ -82,7 +91,6 @@ Alguns frameworks e linguagens que tenho curiosidade e vontade de aprender para 
     <a href="https://www.mysql.com/"><img alt="MySQL" src="https://skillicons.dev/icons?i=mysql"></a>
     <a href="https://dart.dev/"><img alt="Dart" src="https://skillicons.dev/icons?i=dart"></a>
     <a href="https://flutter.dev/"><img alt="Flutter" src="https://skillicons.dev/icons?i=flutter"></a>
-    <a href="https://www.typescriptlang.org/"><img alt="TypeScript" src="https://skillicons.dev/icons?i=ts"></a>
 </p>
 
 ## 📱 Contato
