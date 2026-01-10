@@ -20,6 +20,7 @@ Alguns projetos acadêmicos e pessoais que merecem maior visibilidade.
 
 * <a href="https://github.com/juan-ferreirax/dashboard-sad">Dashboard feito em Python</a>
 * <a href="https://github.com/juan-ferreirax/foz-city-guide">Guia Turístico de Foz do Iguaçu</a>
+* <a href="https://github.com/juan-ferreirax/hashcat-bruteforce-attack-analysis">Análise de Ataques de Força Bruta com o Software Hashcat</a>
 
 ## 👨🏻‍💻 Linguagens e Frameworks
 
