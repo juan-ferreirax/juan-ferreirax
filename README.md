@@ -48,6 +48,7 @@ Tecnologias que tem dispertado o meu interesse e que venho estudando para aperfe
 <p align="center">
     <a href="https://fastapi.tiangolo.com/"><img alt="FastAPI" src="https://skillicons.dev/icons?i=fastapi"></a>
     <a href="https://insomnia.rest/"><img alt="Insomnia" src="https://cdn.simpleicons.org/insomnia/5849BE" width="48" height="48"></a>
+    <a href="https://www.postman.com/"><img alt="Postman" src="https://skillicons.dev/icons?i=postman"></a>
     <a href="https://developer.mozilla.org/pt-BR/docs/Web/JavaScript"><img alt="JavaScript" src="https://skillicons.dev/icons?i=js"><a>
     <a href="https://www.typescriptlang.org/"><img alt="TypeScript" src="https://skillicons.dev/icons?i=ts"></a>
 </p>
