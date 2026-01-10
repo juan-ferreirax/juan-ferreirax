@@ -22,7 +22,7 @@ Alguns projetos acadêmicos e pessoais que merecem maior visibilidade.
 * <a href="https://github.com/juan-ferreirax/foz-city-guide">Guia Turístico de Foz do Iguaçu</a>
 * <a href="https://github.com/juan-ferreirax/hashcat-bruteforce-attack-analysis">Análise de Ataques de Força Bruta com o Software Hashcat</a>
 
-## 👨🏻‍💻 Linguagens e Frameworks
+## 👨🏻‍💻 Linguagens
 
 Linguagens e Frameworks que possuo maior experiência e afinidade, atualmente tenho dedicado meus estudos para criação de programas e projetos com <a href="https://www.python.org/">Python</a>. É uma linguagem versátil que se integra facilmente a outras tecnologias front-end e back-end as quais utilizo para colocar prática os meus estudos de cibersegurança e análise de dados.<br><br>
 
