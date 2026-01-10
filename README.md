@@ -91,4 +91,5 @@ Mais projetos irão aparecer aqui com o tempo, enquanto isso, que tal nos conect
 <p align="center">
     <a href="https://www.instagram.com/juan.ferreirax/"><img alt="Instagram" src="https://skillicons.dev/icons?i=instagram"></a>
     <a href="https://www.linkedin.com/in/juan-pablo-ferreira-costa/"><img alt="Linkedin" src="https://skillicons.dev/icons?i=linkedin"></a>
+    <a href="https://wa.me/5538999367561"><img alt="WhatsApp" src="./images/whatsapp.png" width="48" height="48"></a>
 </p>
