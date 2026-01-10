@@ -21,9 +21,9 @@ Alguns projetos acadêmicos e pessoais que merecem maior visibilidade.
 * <a href="https://github.com/juan-ferreirax/dashboard-sad">Dashboard feito em Python</a>
 * <a href="https://github.com/juan-ferreirax/foz-city-guide">Guia Turístico de Foz do Iguaçu</a>
 
-## 👨🏻‍💻 Linguagens
+## 👨🏻‍💻 Linguagens e Frameworks
 
-Linguagens que possuo maior experiência e afinidade, atualmente tenho dedicado meus estudos para criação de programas e projetos com <a href="https://www.python.org/">Python</a>. É uma linguagem versátil que se integra facilmente a outras tecnologias front-end e back-end as quais utilizo para colocar prática os meus estudos de cibersegurança e análise de dados.<br><br>
+Linguagens e Frameworks que possuo maior experiência e afinidade, atualmente tenho dedicado meus estudos para criação de programas e projetos com <a href="https://www.python.org/">Python</a>. É uma linguagem versátil que se integra facilmente a outras tecnologias front-end e back-end as quais utilizo para colocar prática os meus estudos de cibersegurança e análise de dados.<br><br>
 
 <p align="center">
     <a href="https://github.com/anuraghazra/github-readme-stats">
@@ -33,6 +33,7 @@ Linguagens que possuo maior experiência e afinidade, atualmente tenho dedicado 
 
 <p align="center">
     <a href="https://www.python.org/"><img alt="Python" src="https://skillicons.dev/icons?i=python"></a>
+    <a href="https://fastapi.tiangolo.com/"><img alt="FastAPI" src="https://skillicons.dev/icons?i=fastapi"></a>
     <a href="https://www.markdownguide.org/"><img alt="Markdown" src="https://skillicons.dev/icons?i=md"></a>
     <a href="https://www.gnu.org/software/bash/"><img alt="Bash" src="https://skillicons.dev/icons?i=bash"></a>
     <a href="https://developer.mozilla.org/pt-BR/docs/Web/HTML"><img alt="HTML" src="https://skillicons.dev/icons?i=html"></a>
@@ -60,24 +61,32 @@ Ferramentas que me auxiliam nas atividades acadêmicas e projetos pessoais. Orga
 <p align="center">
     <a href="https://obsidian.md/"><img alt="Obsidian" src="https://skillicons.dev/icons?i=obsidian"></a>
     <a href="https://www.notion.so/"><img alt="Notion" src="https://skillicons.dev/icons?i=notion"></a>
+    <a href="https://insomnia.rest/"><img alt="Insomnia" src="https://cdn.simpleicons.org/insomnia/5849BE" width="48" height="48"></a>
     <a href="https://code.visualstudio.com/"><img alt="VSCode" src="https://skillicons.dev/icons?i=vscode"></a>
     <a href="https://git-scm.com/"><img alt="Git" src="https://skillicons.dev/icons?i=git"></a>
     <a href="https://github.com/"><img alt="GitHub" src="https://skillicons.dev/icons?i=github"></a>
     <a href="https://discord.com/"><img alt="Discord" src="https://skillicons.dev/icons?i=discord"></a>
+    
 </p>
 
 ## 🧠 Metas de Aperfeiçoamento
 
-Alguns frameworks e linguagens que venho explorando para aperfeiçoar meus conhecimentos, com o intuito de melhorar o nível de construção dos meus projetos e deixa-los mais robustos.
+Alguns frameworks e linguagens que tenho curiosidade e vontade de aprender para aperfeiçoar meus conhecimentos, com o intuito de melhorar o nível de construção dos meus projetos.
 
 <p align="center">
     <a href="https://getbootstrap.com/"><img alt="Bootstrap" src="https://skillicons.dev/icons?i=bootstrap"></a>
-    <a href="https://www.djangoproject.com/"><img alt="Django" src="https://skillicons.dev/icons?i=django"></a>
     <a href="https://flask.palletsprojects.com/"><img alt="Flask" src="https://skillicons.dev/icons?i=flask"></a>
+    <a href="https://www.djangoproject.com/"><img alt="Django" src="https://skillicons.dev/icons?i=django"></a>
+    <a href="https://www.postgresql.org/"><img alt="PostgreSQL" src="https://skillicons.dev/icons?i=postgresql"></a>
     <a href="https://www.mysql.com/"><img alt="MySQL" src="https://skillicons.dev/icons?i=mysql"></a>
+    <a href="https://dart.dev/"><img alt="Dart" src="https://skillicons.dev/icons?i=dart"></a>
+    <a href="https://flutter.dev/"><img alt="Flutter" src="https://skillicons.dev/icons?i=flutter"></a>
+    <a href="https://www.typescriptlang.org/"><img alt="TypeScript" src="https://skillicons.dev/icons?i=ts"></a>
 </p>
 
-Uso o Git e o Github a pouco tempo, mas já percebo o quao poderosas são essas ferramentas, mais projetos irão aparecer aqui com o tempo, enquanto isso que tal nos conectarmos? Sinta-se a vontade!
+## 📱 Contato
+
+Mais projetos irão aparecer aqui com o tempo, enquanto isso, que tal nos conectarmos? Sinta-se a vontade!
 
 <p align="center">
     <a href="https://www.instagram.com/juan.ferreirax/"><img alt="Instagram" src="https://skillicons.dev/icons?i=instagram"></a>
