@@ -46,10 +46,8 @@ Tecnologias que tem dispertado o meu interesse e que venho estudando para aperfe
 
 <p align="center">
     <a href="https://fastapi.tiangolo.com/"><img alt="FastAPI" src="https://skillicons.dev/icons?i=fastapi"></a>
-    <a href="https://insomnia.rest/"><img alt="Insomnia" src="https://cdn.simpleicons.org/insomnia/5849BE" width="48" height="48"></a>
-    <a href="https://www.postman.com/"><img alt="Postman" src="https://skillicons.dev/icons?i=postman"></a>
-    <a href="https://developer.mozilla.org/pt-BR/docs/Web/JavaScript"><img alt="JavaScript" src="https://skillicons.dev/icons?i=js"><a>
     <a href="https://www.djangoproject.com/"><img alt="Django" src="https://skillicons.dev/icons?i=django"></a>
+    <a href="https://developer.mozilla.org/pt-BR/docs/Web/JavaScript"><img alt="JavaScript" src="https://skillicons.dev/icons?i=js"><a>
 </p>
 
 ## 💻️ Sistemas Operacionais
@@ -70,12 +68,13 @@ SOs e distros linux que já tive a experiência de utilizar no meu Workflow, no 
 Ferramentas que me auxiliam nas atividades acadêmicas e projetos pessoais. Organização sempre foi minha prioridade, seja em ambientes fisícos ou virtuais, vai além de uma lista de notas ou um post-it colorido, é uma forma de não perder o controle com o turbilhão de informações que nos atinge diáriamente.
 
 <p align="center">
-    <a href="https://obsidian.md/"><img alt="Obsidian" src="https://skillicons.dev/icons?i=obsidian"></a>
-    <a href="https://www.notion.so/"><img alt="Notion" src="https://skillicons.dev/icons?i=notion"></a>
     <a href="https://code.visualstudio.com/"><img alt="VSCode" src="https://skillicons.dev/icons?i=vscode"></a>
     <a href="https://git-scm.com/"><img alt="Git" src="https://skillicons.dev/icons?i=git"></a>
     <a href="https://github.com/"><img alt="GitHub" src="https://skillicons.dev/icons?i=github"></a>
     <a href="https://discord.com/"><img alt="Discord" src="https://skillicons.dev/icons?i=discord"></a>
+    <a href="https://www.notion.so/"><img alt="Notion" src="https://skillicons.dev/icons?i=notion"></a>
+    <a href="https://www.postman.com/"><img alt="Postman" src="https://skillicons.dev/icons?i=postman"></a>
+    <a href="https://obsidian.md/"><img alt="Obsidian" src="https://skillicons.dev/icons?i=obsidian"></a>
     
 </p>
 
