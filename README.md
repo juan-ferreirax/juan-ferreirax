@@ -49,7 +49,6 @@ Tecnologias que tem dispertado o meu interesse e que venho estudando para aperfe
     <a href="https://insomnia.rest/"><img alt="Insomnia" src="https://cdn.simpleicons.org/insomnia/5849BE" width="48" height="48"></a>
     <a href="https://www.postman.com/"><img alt="Postman" src="https://skillicons.dev/icons?i=postman"></a>
     <a href="https://developer.mozilla.org/pt-BR/docs/Web/JavaScript"><img alt="JavaScript" src="https://skillicons.dev/icons?i=js"><a>
-    <a href="https://www.typescriptlang.org/"><img alt="TypeScript" src="https://skillicons.dev/icons?i=ts"></a>
     <a href="https://www.djangoproject.com/"><img alt="Django" src="https://skillicons.dev/icons?i=django"></a>
 </p>
 
@@ -91,6 +90,7 @@ Alguns frameworks e linguagens que tenho curiosidade e vontade de aprender.
     <a href="https://www.mysql.com/"><img alt="MySQL" src="https://skillicons.dev/icons?i=mysql"></a>
     <a href="https://dart.dev/"><img alt="Dart" src="https://skillicons.dev/icons?i=dart"></a>
     <a href="https://flutter.dev/"><img alt="Flutter" src="https://skillicons.dev/icons?i=flutter"></a>
+    <a href="https://www.typescriptlang.org/"><img alt="TypeScript" src="https://skillicons.dev/icons?i=ts"></a>
 </p>
 
 ## 📱 Contato
