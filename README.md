@@ -43,7 +43,7 @@ Linguagens e Frameworks que possuo maior experiência e afinidade, atualmente te
 
 ## 📚️ Estudando
 
-Tecnologias que tem dispertado o meu interesse e que venho estudando para aperfeiçoar o nível de construção dos meus projetos..
+Tecnologias que tem dispertado o meu interesse e que venho estudando para aperfeiçoar o nível de construção dos meus projetos.
 
 <p align="center">
     <a href="https://fastapi.tiangolo.com/"><img alt="FastAPI" src="https://skillicons.dev/icons?i=fastapi"></a>
