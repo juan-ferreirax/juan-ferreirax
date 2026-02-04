@@ -47,7 +47,7 @@ Tecnologias que tem dispertado o meu interesse e que venho estudando para aperfe
 <p align="center">
     <a href="https://fastapi.tiangolo.com/"><img alt="FastAPI" src="https://skillicons.dev/icons?i=fastapi"></a>
     <a href="https://www.djangoproject.com/"><img alt="Django" src="https://skillicons.dev/icons?i=django"></a>
-    <a href="https://developer.mozilla.org/pt-BR/docs/Web/JavaScript"><img alt="JavaScript" src="https://skillicons.dev/icons?i=js"><a>
+    <a href="https://developer.mozilla.org/pt-BR/docs/Web/JavaScript"><img alt="JavaScript" src="https://skillicons.dev/icons?i=js"></a>
 </p>
 
 ## 💻️ Sistemas Operacionais
@@ -55,7 +55,7 @@ Tecnologias que tem dispertado o meu interesse e que venho estudando para aperfe
 SOs e distros linux que já tive a experiência de utilizar no meu Workflow, no meu dia a dia utilizo o <a href="https://ubuntu.com/download/desktop">Ubuntu 24.04.2 LTS</a> sob o tema Kali Dark.
 
 <p align="center">
-    <a href="https://skillicons.dev/icons?i=windows"><img alt="Windows" src="https://skillicons.dev/icons?i=windows"></a>
+    <a href="https://www.microsoft.com/windows/"><img alt="Windows" src="https://skillicons.dev/icons?i=windows"></a>
     <a href="https://www.kernel.org/"><img alt="Linux" src="https://skillicons.dev/icons?i=linux"></a>
     <a href="https://www.debian.org/"><img alt="Debian" src="https://skillicons.dev/icons?i=debian"></a>
     <a href="https://ubuntu.com/"><img alt="Ubuntu" src="https://skillicons.dev/icons?i=ubuntu"></a>
