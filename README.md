@@ -30,11 +30,10 @@ Linguagens e Frameworks que possuo maior experiência e afinidade, atualmente te
 </p>
 
 <p align="center">
-    <a href="https://www.python.org/"><img alt="Python" src="https://skillicons.dev/icons?i=python"></a>
-    <a href="https://www.markdownguide.org/"><img alt="Markdown" src="https://skillicons.dev/icons?i=md"></a>
-    <a href="https://www.gnu.org/software/bash/"><img alt="Bash" src="https://skillicons.dev/icons?i=bash"></a>
-    <a href="https://developer.mozilla.org/pt-BR/docs/Web/HTML"><img alt="HTML" src="https://skillicons.dev/icons?i=html"></a>
+    <a href="https://www.python.org/"><img alt="Python" src="https://skillicons.dev/icons?i=python"></a><a href="https://developer.mozilla.org/pt-BR/docs/Web/HTML"><img alt="HTML" src="https://skillicons.dev/icons?i=html"></a>
     <a href="https://developer.mozilla.org/pt-BR/docs/Web/CSS"><img alt="CSS" src="https://skillicons.dev/icons?i=css"></a>
+    <a href="https://www.mysql.com/"><img alt="MySQL" src="https://skillicons.dev/icons?i=mysql"></a><a href="https://www.gnu.org/software/bash/"><img alt="Bash" src="https://skillicons.dev/icons?i=bash"></a>
+    <a href="https://www.markdownguide.org/"><img alt="Markdown" src="https://skillicons.dev/icons?i=md"></a>
 </p>
 
 ## 📚️ Estudando
@@ -43,7 +42,6 @@ Tecnologias que tem dispertado o meu interesse e que venho estudando para aperfe
 
 <p align="center">
     <a href="https://www.djangoproject.com/"><img alt="Django" src="https://skillicons.dev/icons?i=django"></a>
-    <a href="https://www.mysql.com/"><img alt="MySQL" src="https://skillicons.dev/icons?i=mysql"></a>
     <a href="https://developer.mozilla.org/pt-BR/docs/Web/JavaScript"><img alt="JavaScript" src="https://skillicons.dev/icons?i=js"></a>
 
 </p>
