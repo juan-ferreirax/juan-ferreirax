@@ -32,6 +32,7 @@ Linguagens e Frameworks que possuo maior experiência e afinidade, atualmente te
 <p align="center">
     <a href="https://www.python.org/"><img alt="Python" src="https://skillicons.dev/icons?i=python"></a><a href="https://developer.mozilla.org/pt-BR/docs/Web/HTML"><img alt="HTML" src="https://skillicons.dev/icons?i=html"></a>
     <a href="https://developer.mozilla.org/pt-BR/docs/Web/CSS"><img alt="CSS" src="https://skillicons.dev/icons?i=css"></a>
+    <a href="https://developer.mozilla.org/pt-BR/docs/Web/JavaScript"><img alt="JavaScript" src="https://skillicons.dev/icons?i=js"></a>
     <a href="https://www.mysql.com/"><img alt="MySQL" src="https://skillicons.dev/icons?i=mysql"></a><a href="https://www.gnu.org/software/bash/"><img alt="Bash" src="https://skillicons.dev/icons?i=bash"></a>
     <a href="https://www.markdownguide.org/"><img alt="Markdown" src="https://skillicons.dev/icons?i=md"></a>
 </p>
@@ -41,8 +42,7 @@ Linguagens e Frameworks que possuo maior experiência e afinidade, atualmente te
 Tecnologias que tem dispertado o meu interesse e que venho estudando para aperfeiçoar o nível de construção dos meus projetos.
 
 <p align="center">
-    <a href="https://www.djangoproject.com/"><img alt="Django" src="https://skillicons.dev/icons?i=django"></a>
-    <a href="https://developer.mozilla.org/pt-BR/docs/Web/JavaScript"><img alt="JavaScript" src="https://skillicons.dev/icons?i=js"></a>
+    <a href="https://www.typescriptlang.org/"><img alt="TypeScript" src="https://skillicons.dev/icons?i=ts"></a>
 
 </p>
 
@@ -79,14 +79,13 @@ Ferramentas que me auxiliam nas atividades acadêmicas e projetos pessoais. Orga
 Alguns frameworks e linguagens que tenho curiosidade e vontade de aprender.
 
 <p align="center">
-    <a href="https://getbootstrap.com/"><img alt="Bootstrap" src="https://skillicons.dev/icons?i=bootstrap"></a>
+    <a href="https://www.djangoproject.com/"><img alt="Django" src="https://skillicons.dev/icons?i=django"></a>
     <a href="https://flask.palletsprojects.com/"><img alt="Flask" src="https://skillicons.dev/icons?i=flask"></a>
     <a href="https://fastapi.tiangolo.com/"><img alt="FastAPI" src="https://skillicons.dev/icons?i=fastapi"></a>
     <a href="https://www.postgresql.org/"><img alt="PostgreSQL" src="https://skillicons.dev/icons?i=postgresql"></a>
-    <a href="https://www.mysql.com/"><img alt="MySQL" src="https://skillicons.dev/icons?i=mysql"></a>
-    <a href="https://dart.dev/"><img alt="Dart" src="https://skillicons.dev/icons?i=dart"></a>
+    <a href="https://getbootstrap.com/"><img alt="Bootstrap" src="https://skillicons.dev/icons?i=bootstrap"></a>
+    <a href="https://dart.dev/"><img alt="Dart" src="https://skillicons.dev/icons?i=dart"><a>
     <a href="https://flutter.dev/"><img alt="Flutter" src="https://skillicons.dev/icons?i=flutter"></a>
-    <a href="https://www.typescriptlang.org/"><img alt="TypeScript" src="https://skillicons.dev/icons?i=ts"></a>
 </p>
 
 ## 📱 Contato
