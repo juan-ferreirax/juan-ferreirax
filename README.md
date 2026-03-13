@@ -43,6 +43,7 @@ Tecnologias que tem dispertado o meu interesse e que venho estudando para aperfe
 
 <p align="center">
     <a href="https://www.typescriptlang.org/"><img alt="TypeScript" src="https://skillicons.dev/icons?i=ts"></a>
+    <a href="https://angular.dev/"><img alt="Angular" src="https://skillicons.dev/icons?i=angular"></a>
 
 </p>
 
