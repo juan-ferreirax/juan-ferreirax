@@ -21,7 +21,7 @@ Alguns projetos acadêmicos e pessoais que merecem maior visibilidade.
 
 ## 👨🏻‍💻 Linguagens
 
-Linguagens e Frameworks que possuo maior experiência e afinidade, atualmente tenho dedicado meus estudos para criação de programas e projetos com <a href="https://www.python.org/">Python</a>. É uma linguagem versátil que se integra facilmente a outras tecnologias front-end e back-end as quais utilizo para colocar prática os meus estudos de cibersegurança e análise de dados.<br><br>
+Linguagens e tecnologias que possuo maior afinidade.
 
 <p align="center">
     <a href="https://github.com/anuraghazra/github-readme-stats">
@@ -33,8 +33,15 @@ Linguagens e Frameworks que possuo maior experiência e afinidade, atualmente te
     <a href="https://www.python.org/"><img alt="Python" src="https://skillicons.dev/icons?i=python"></a><a href="https://developer.mozilla.org/pt-BR/docs/Web/HTML"><img alt="HTML" src="https://skillicons.dev/icons?i=html"></a>
     <a href="https://developer.mozilla.org/pt-BR/docs/Web/CSS"><img alt="CSS" src="https://skillicons.dev/icons?i=css"></a>
     <a href="https://developer.mozilla.org/pt-BR/docs/Web/JavaScript"><img alt="JavaScript" src="https://skillicons.dev/icons?i=js"></a>
-    <a href="https://www.mysql.com/"><img alt="MySQL" src="https://skillicons.dev/icons?i=mysql"></a><a href="https://www.gnu.org/software/bash/"><img alt="Bash" src="https://skillicons.dev/icons?i=bash"></a>
+   <a href="https://www.gnu.org/software/bash/"><img alt="Bash" src="https://skillicons.dev/icons?i=bash"></a>
     <a href="https://www.markdownguide.org/"><img alt="Markdown" src="https://skillicons.dev/icons?i=md"></a>
+    <a href="https://www.mysql.com/"><img alt="MySQL" src="https://skillicons.dev/icons?i=mysql"></a>
+
+Linguagens e tecnologias que possuo conhecimento básico-intermediário.
+
+<p align="center">
+    <a href="https://getbootstrap.com/"><img alt="Bootstrap" src="https://skillicons.dev/icons?i=bootstrap"></a>
+    <a href="https://www.java.com/"><img alt="Java" src="https://skillicons.dev/icons?i=java"></a>
 </p>
 
 ## 📚️ Estudando
@@ -84,7 +91,6 @@ Alguns frameworks e linguagens que tenho curiosidade e vontade de aprender.
     <a href="https://flask.palletsprojects.com/"><img alt="Flask" src="https://skillicons.dev/icons?i=flask"></a>
     <a href="https://fastapi.tiangolo.com/"><img alt="FastAPI" src="https://skillicons.dev/icons?i=fastapi"></a>
     <a href="https://www.postgresql.org/"><img alt="PostgreSQL" src="https://skillicons.dev/icons?i=postgresql"></a>
-    <a href="https://getbootstrap.com/"><img alt="Bootstrap" src="https://skillicons.dev/icons?i=bootstrap"></a>
     <a href="https://dart.dev/"><img alt="Dart" src="https://skillicons.dev/icons?i=dart"><a>
     <a href="https://flutter.dev/"><img alt="Flutter" src="https://skillicons.dev/icons?i=flutter"></a>
 </p>
