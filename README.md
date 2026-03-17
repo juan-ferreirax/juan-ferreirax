@@ -25,7 +25,7 @@ Linguagens e tecnologias que possuo maior afinidade.
 
 <p align="center">
     <a href="https://github.com/anuraghazra/github-readme-stats">
-        <img alt="Top Langs" src="https://github-readme-stats.vercel.app/api/top-langs/?username=juan-ferreirax&layout=compact&theme=tokyonight&hide_border=true">
+        <img alt="Top Langs" src="https://github-readme-stats.vercel.app/api/top-langs/?username=juan-ferreirax&layout=compact&theme=tokyonight&hide_border=true&langs_count=10&cache_seconds=300&v=1">
     </a>
 </p>
 
