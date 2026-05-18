@@ -21,7 +21,7 @@ Alguns projetos acadêmicos e pessoais que merecem maior visibilidade.
 
 ## 👨🏻‍💻 Linguagens
 
-Linguagens e tecnologias que possuo maior afinidade.
+Linguagens e frameworks que estou mais habituado.
 
 <p align="center">
     <a href="https://github.com/anuraghazra/github-readme-stats">
@@ -33,6 +33,8 @@ Linguagens e tecnologias que possuo maior afinidade.
     <a href="https://www.python.org/"><img alt="Python" src="https://skillicons.dev/icons?i=python"></a><a href="https://developer.mozilla.org/pt-BR/docs/Web/HTML"><img alt="HTML" src="https://skillicons.dev/icons?i=html"></a>
     <a href="https://developer.mozilla.org/pt-BR/docs/Web/CSS"><img alt="CSS" src="https://skillicons.dev/icons?i=css"></a>
     <a href="https://developer.mozilla.org/pt-BR/docs/Web/JavaScript"><img alt="JavaScript" src="https://skillicons.dev/icons?i=js"></a>
+    <a href="https://www.typescriptlang.org/"><img alt="TypeScript" src="https://skillicons.dev/icons?i=ts"></a>
+    <a href="https://getbootstrap.com/"><img alt="Bootstrap" src="https://skillicons.dev/icons?i=bootstrap"></a>
    <a href="https://www.gnu.org/software/bash/"><img alt="Bash" src="https://skillicons.dev/icons?i=bash"></a>
     <a href="https://www.markdownguide.org/"><img alt="Markdown" src="https://skillicons.dev/icons?i=md"></a>
     <a href="https://www.mysql.com/"><img alt="MySQL" src="https://skillicons.dev/icons?i=mysql"></a>
@@ -40,8 +42,9 @@ Linguagens e tecnologias que possuo maior afinidade.
 Linguagens e tecnologias que possuo conhecimento básico-intermediário.
 
 <p align="center">
-    <a href="https://getbootstrap.com/"><img alt="Bootstrap" src="https://skillicons.dev/icons?i=bootstrap"></a>
     <a href="https://www.java.com/"><img alt="Java" src="https://skillicons.dev/icons?i=java"></a>
+    <a href="https://regexr.com/"><img alt="Regex" src="https://skillicons.dev/icons?i=regex"></a>
+    <a href="https://www.latex-project.org/"><img alt="LaTeX" src="https://skillicons.dev/icons?i=latex"></a>
 </p>
 
 ## 📚️ Estudando
@@ -49,14 +52,13 @@ Linguagens e tecnologias que possuo conhecimento básico-intermediário.
 Tecnologias que tem dispertado o meu interesse e que venho estudando para aperfeiçoar o nível de construção dos meus projetos.
 
 <p align="center">
-    <a href="https://www.typescriptlang.org/"><img alt="TypeScript" src="https://skillicons.dev/icons?i=ts"></a>
     <a href="https://angular.dev/"><img alt="Angular" src="https://skillicons.dev/icons?i=angular"></a>
 
 </p>
 
 ## 💻️ Sistemas Operacionais
 
-SOs e distros linux que já tive a experiência de utilizar no meu Workflow, no meu dia a dia utilizo o <a href="https://ubuntu.com/download/desktop">Ubuntu 24.04.2 LTS</a> sob o tema Kali Dark.
+SOs e distros linux que já tive a experiência de utilizar no meu Workflow, no meu dia a dia utilizo o <a href="https://ubuntu.com/download/desktop">Ubuntu 24.04 LTS</a> sob o tema Kali Dark.
 
 <p align="center">
     <a href="https://www.microsoft.com/windows/"><img alt="Windows" src="https://skillicons.dev/icons?i=windows"></a>
@@ -84,7 +86,7 @@ Ferramentas que me auxiliam nas atividades acadêmicas e projetos pessoais. Orga
 
 ## 🧠 Metas de Aprendizado
 
-Alguns frameworks e linguagens que tenho curiosidade e vontade de aprender.
+Alguns frameworks e linguagens que tenho interesse em aprender assim que possível.
 
 <p align="center">
     <a href="https://www.djangoproject.com/"><img alt="Django" src="https://skillicons.dev/icons?i=django"></a>
