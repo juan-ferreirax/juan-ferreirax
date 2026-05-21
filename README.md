@@ -77,10 +77,11 @@ Ferramentas que me auxiliam nas atividades acadêmicas e projetos pessoais. Orga
     <a href="https://code.visualstudio.com/"><img alt="VSCode" src="https://skillicons.dev/icons?i=vscode"></a>
     <a href="https://git-scm.com/"><img alt="Git" src="https://skillicons.dev/icons?i=git"></a>
     <a href="https://github.com/"><img alt="GitHub" src="https://skillicons.dev/icons?i=github"></a>
-    <a href="https://discord.com/"><img alt="Discord" src="https://skillicons.dev/icons?i=discord"></a>
-    <a href="https://www.notion.so/"><img alt="Notion" src="https://skillicons.dev/icons?i=notion"></a>
     <a href="https://www.postman.com/"><img alt="Postman" src="https://skillicons.dev/icons?i=postman"></a>
+    <a href="https://www.notion.so/"><img alt="Notion" src="https://skillicons.dev/icons?i=notion"></a>
+    <a href="https://discord.com/"><img alt="Discord" src="https://skillicons.dev/icons?i=discord"></a>
     <a href="https://obsidian.md/"><img alt="Obsidian" src="https://skillicons.dev/icons?i=obsidian"></a>
+    <a href="https://tasks.google.com/"><img alt="Google Tasks" src="https://cdn.simpleicons.org/googletasks" width="48" height="48"></a>
     
 </p>
 
