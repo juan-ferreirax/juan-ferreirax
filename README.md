@@ -34,6 +34,7 @@ Linguagens e frameworks que estou mais habituado.
     <a href="https://developer.mozilla.org/pt-BR/docs/Web/CSS"><img alt="CSS" src="https://skillicons.dev/icons?i=css"></a>
     <a href="https://developer.mozilla.org/pt-BR/docs/Web/JavaScript"><img alt="JavaScript" src="https://skillicons.dev/icons?i=js"></a>
     <a href="https://www.typescriptlang.org/"><img alt="TypeScript" src="https://skillicons.dev/icons?i=ts"></a>
+    <a href="https://angular.dev/"><img alt="Angular" src="https://skillicons.dev/icons?i=angular"></a>
     <a href="https://getbootstrap.com/"><img alt="Bootstrap" src="https://skillicons.dev/icons?i=bootstrap"></a>
    <a href="https://www.gnu.org/software/bash/"><img alt="Bash" src="https://skillicons.dev/icons?i=bash"></a>
     <a href="https://www.markdownguide.org/"><img alt="Markdown" src="https://skillicons.dev/icons?i=md"></a>
@@ -52,7 +53,6 @@ Linguagens e tecnologias que possuo conhecimento básico-intermediário.
 Tecnologias que tem dispertado o meu interesse e que venho estudando para aperfeiçoar o nível de construção dos meus projetos.
 
 <p align="center">
-    <a href="https://angular.dev/"><img alt="Angular" src="https://skillicons.dev/icons?i=angular"></a>
 
 </p>
 
