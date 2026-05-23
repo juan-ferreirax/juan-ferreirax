@@ -15,7 +15,7 @@ Analista de Sistemas em formação, cineasta de cibersegurança & redes de compu
 
 Alguns projetos acadêmicos e pessoais que merecem maior visibilidade.
 
-* <a href="https://github.com/juan-ferreirax/foz-city-guide">Gerador de Certificados em Angular</a>
+* <a href="https://github.com/juan-ferreirax/gerador-certificado">Gerador de Certificados em Angular</a>
 * <a href="https://github.com/juan-ferreirax/dashboard-sad">Dashboard Python para Análise de Dados</a>
 * <a href="https://github.com/juan-ferreirax/hashcat-bruteforce-attack-analysis">Análise de Ataques de Força Bruta com o Software Hashcat</a>
 
