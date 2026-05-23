@@ -53,7 +53,7 @@ Linguagens e tecnologias que possuo conhecimento básico-intermediário.
 Tecnologias que tem dispertado o meu interesse e que venho estudando para aperfeiçoar o nível de construção dos meus projetos.
 
 <p align="center">
-
+    <a href="https://www.djangoproject.com/"><img alt="Django" src="https://skillicons.dev/icons?i=django"></a>
 </p>
 
 ## 💻️ Sistemas Operacionais
