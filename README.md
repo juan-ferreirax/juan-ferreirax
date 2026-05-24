@@ -2,6 +2,11 @@
 
 Estudante do 7º período de Sistemas de Informação com grande interesse e foco em Cibersegurança, especialmente na área de Red Team e Segurança Ofensiva. Utilizo a programação de forma estratégica para a construção de scripts, análise de dados e otimização de processos. Meu objetivo é usar a programação como um diferencial técnico para identificar vulnerabilidades, automatizar tarefas e proteger ambientes digitais.
 
+<!-- Contador de visitas -->
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=juan-ferreirax&label=Profile%20views&color=0e75b6&style=flat" alt="juan-ferreirax"/>
+</p>
+
 ## 👤 Sobre mim
 
 <p align="left">
