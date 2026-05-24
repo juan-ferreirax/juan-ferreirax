@@ -1,27 +1,89 @@
-# Bem vindo, eu sou o Juan! 👋🏼
+# Bem-vindo, eu sou o Juan! 👋🏼
 
-Analista de Sistemas em formação, cineasta de cibersegurança & redes de computadores, procuro resolver problemas de forma simples e eficaz utilizando tecnologias modernas e intuitivas. Tenho focado os meus estudos em Python e em Segurança da Informação, com o objetivo de transformar meus aprendizados em soluções aplicáveis em ocorrências pontuais e ao longo prazo.
+Estudante do 7º período de Sistemas de Informação com grande interesse e foco em Cibersegurança, especialmente na área de Red Team e Segurança Ofensiva. Utilizo a programação de forma estratégica para a construção de scripts, análise de dados e otimização de processos. Meu objetivo é usar a programação como um diferencial técnico para identificar vulnerabilidades, automatizar tarefas e proteger ambientes digitais.
 
 ## 👤 Sobre mim
 
-* 🎓️ Técnico em informática pelo <a href="https://www.ifnmg.edu.br/docs/344-portal/salinas/salinas-cursos-tecnicos/tecnico-em-informatica-integrado/13549-tecnico-em-informatica-integrado">IFNMG</a>
-* 👨🏻‍💻 Graduando em Sistemas de Informação pela <a href="https://portal.ufvjm.edu.br/a-universidade/cursos/sin">UFVJM</a>
-* 📚️ Estudando Python e Segurança da Informação
-* 🌐 Interessado em Linux e Cibersegurança
+<p align="left">
+    🎓️ Técnico em informática pelo <a href="https://www.ifnmg.edu.br/docs/344-portal/salinas/salinas-cursos-tecnicos/tecnico-em-informatica-integrado/13549-tecnico-em-informatica-integrado">IFNMG</a><br>
+    👨🏻‍💻 Graduando em Sistemas de Informação pela <a href="https://portal.ufvjm.edu.br/a-universidade/cursos/sin">UFVJM</a><br>
+    🛡️ Certificação <strong><a href="assets/certificates/google_cybersecurity.pdf">Google Cybersecurity Professional Certificate</a></strong>.
+</p>
 
-<img src="images/password.jpg" width="1000px" height="250px"/>
+<img src="assets/images/password.jpg" width="1000px" height="250px" alt="Banner de Segurança"/>
 
-## ⭐️ Destaques
+## ⭐️ Destaques e Projetos
 
-Alguns projetos acadêmicos e pessoais que merecem maior visibilidade.
+* 🔐 <a href="https://github.com/juan-ferreirax/hashcat-bruteforce-attack-analysis">Análise de Ataques de Força Bruta com o Software Hashcat</a>
+* 🧅 <a href="https://github.com/juan-ferreirax/tor-network-simulation">Simulação do funcionamento do trafego da rede tor</a>
+* 🌐 <a href="https://github.com/juan-ferreirax/network-scanner">Script para análise de aspectos relacionados a redes no Linux.</a>
+* 📜 <a href="https://github.com/juan-ferreirax/gerador-certificado">Gerador de Certificados em Angular</a>
 
-* <a href="https://github.com/juan-ferreirax/gerador-certificado">Gerador de Certificados em Angular</a>
-* <a href="https://github.com/juan-ferreirax/dashboard-sad">Dashboard Python para Análise de Dados</a>
-* <a href="https://github.com/juan-ferreirax/hashcat-bruteforce-attack-analysis">Análise de Ataques de Força Bruta com o Software Hashcat</a>
+## 🖥️ Infraestrutura Suporte Técnico
 
-## 👨🏻‍💻 Linguagens
+Possuo experiência sólida com suporte técnico, englobando manutenção de software, instalação e configuração de sistemas operacionais (Windows e Linux). Além disso, possuo entendimento e experiências consideráveis em  redes de computadores e ambientes virtualizados.
 
-Linguagens e frameworks que estou mais habituado.
+Softwares e tecnologias que possuo experiência sólida:
+
+<p align="center">
+    <a href="https://www.gnome.org/gnome-3/"><img src="https://img.shields.io/badge/Terminal-4D4D4D?style=for-the-badge&logo=gnometerminal&logoColor=white" alt="Terminal"></a>
+    <a href="https://syncthing.net/"><img src="https://img.shields.io/badge/Syncthing-2D9CDB?style=for-the-badge&logo=syncthing&logoColor=white" alt="Syncthing"></a>
+    <a href="https://www.vmware.com/"><img src="https://img.shields.io/badge/VMware-60B932?style=for-the-badge&logo=VMware&logoColor=white" alt="VMware"></a>
+    <a href="https://www.virtualbox.org/"><img src="https://img.shields.io/badge/VirtualBox-183A61?style=for-the-badge&logo=VirtualBox&logoColor=white" alt="VirtualBox"></a>
+</p>
+
+<p align="center">
+    <a href="https://www.microsoft.com/windows/"><img src="https://img.shields.io/badge/Windows-0078D7?style=for-the-badge&logo=microsoft&logoColor=white" alt="Windows"></a>
+    <a href="https://www.kernel.org/"><img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux"></a>
+    <a href="https://ubuntu.com/download/desktop"><img src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white" alt="Ubuntu"></a>
+    <a href="https://www.kali.org/"><img src="https://img.shields.io/badge/Kali_Linux-000000?style=for-the-badge&logo=kalilinux&logoColor=white" alt="Kali Linux"></a>
+    <a href="https://linuxmint.com/"><img src="https://img.shields.io/badge/Linux_Mint-87CF3E?style=for-the-badge&logo=linuxmint&logoColor=black" alt="Linux Mint"></a>
+    <a href="https://www.debian.org/"><img src="https://img.shields.io/badge/Debian-A81D33?style=for-the-badge&logo=debian&logoColor=white" alt="Debian"></a>
+</p>
+
+## 🚀 Scripting & Automação (DevSec)
+
+Linguagens e ferramentas aplicadas no desenvolvimento de automações, utilitários de infraestrutura e análises estruturadas voltadas para o contexto de segurança.
+
+<p align="center">
+    <a href="https://www.python.org/"><img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"></a>
+    <a href="https://www.gnu.org/software/bash/"><img src="https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white" alt="Bash"></a>
+    <a href="https://developer.mozilla.org/pt-BR/docs/Web/JavaScript"><img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript"></a>
+    <a href="https://www.typescriptlang.org/"><img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript"></a>
+</p>
+
+## 🔍 Pesquisa e Aprofundamento em Cibersegurança
+
+Ferramentas e tecnologias que uso de apoio para meus estudos de segurança ofensiva (OffSec):
+
+<p align="center">
+    <a href="https://www.wireshark.org/"><img src="https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=Wireshark&logoColor=white" alt="Wireshark"></a>
+    <a href="https://portswigger.net/burp"><img src="https://img.shields.io/badge/Burp_Suite-FF6633?style=for-the-badge&logo=BurpSuite&logoColor=white" alt="BurpSuite"></a>
+    <a href="https://www.mysql.com/"><img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL"></a>
+</p>
+
+* **Wireshark:** Estudos focados em monitoramento ativo de tráfego, análise detalhada de pacotes e troubleshooting de redes.
+* **Burp Suite:** Focado na identificação de vulnerabilidades em aplicações web e testes de intrusão.
+* **SQL:** Mapeamento, entendimento e testes de mitigação contra falhas de injeção (SQL Injection).
+
+
+## 📋️ Organização
+
+Ferramentas que auxiliam na gestão de atividades acadêmicas, centralização de informações e produtividade diária:
+
+<p align="center">
+    <a href="https://code.visualstudio.com/"><img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white" alt="VS Code"></a>
+    <a href="https://git-scm.com/"><img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git"></a>
+    <a href="https://github.com/"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"></a>
+    <a href="https://www.postman.com/"><img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" alt="Postman"></a>
+    <a href="https://www.notion.so/"><img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white" alt="Notion"></a>
+    <a href="https://discord.com/"><img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord"></a>
+    <a href="https://obsidian.md/"><img src="https://img.shields.io/badge/Obsidian-483699?style=for-the-badge&logo=obsidian&logoColor=white" alt="Obsidian"></a>
+    <a href="https://tasks.google.com/"><img src="https://img.shields.io/badge/Google_Tasks-4285F4?style=for-the-badge&logo=googletasks&logoColor=white" alt="Google Tasks"></a>
+    <a href="https://notebooklm.google/"><img src="https://img.shields.io/badge/NotebookLM-4285F4?style=for-the-badge&logo=google&logoColor=white" alt="NotebookLM"></a>
+</p>
+
+## ⚙️ Outras tecnologias que tenho experiência
 
 <p align="center">
     <a href="https://github.com/anuraghazra/github-readme-stats">
@@ -30,72 +92,14 @@ Linguagens e frameworks que estou mais habituado.
 </p>
 
 <p align="center">
-    <a href="https://www.python.org/"><img alt="Python" src="https://skillicons.dev/icons?i=python"></a><a href="https://developer.mozilla.org/pt-BR/docs/Web/HTML"><img alt="HTML" src="https://skillicons.dev/icons?i=html"></a>
-    <a href="https://developer.mozilla.org/pt-BR/docs/Web/CSS"><img alt="CSS" src="https://skillicons.dev/icons?i=css"></a>
-    <a href="https://developer.mozilla.org/pt-BR/docs/Web/JavaScript"><img alt="JavaScript" src="https://skillicons.dev/icons?i=js"></a>
-    <a href="https://www.typescriptlang.org/"><img alt="TypeScript" src="https://skillicons.dev/icons?i=ts"></a>
-    <a href="https://angular.dev/"><img alt="Angular" src="https://skillicons.dev/icons?i=angular"></a>
-    <a href="https://getbootstrap.com/"><img alt="Bootstrap" src="https://skillicons.dev/icons?i=bootstrap"></a>
-   <a href="https://www.gnu.org/software/bash/"><img alt="Bash" src="https://skillicons.dev/icons?i=bash"></a>
-    <a href="https://www.markdownguide.org/"><img alt="Markdown" src="https://skillicons.dev/icons?i=md"></a>
-    <a href="https://www.mysql.com/"><img alt="MySQL" src="https://skillicons.dev/icons?i=mysql"></a>
-
-Linguagens e tecnologias que possuo conhecimento básico-intermediário.
-
-<p align="center">
-    <a href="https://www.java.com/"><img alt="Java" src="https://skillicons.dev/icons?i=java"></a>
-    <a href="https://regexr.com/"><img alt="Regex" src="https://skillicons.dev/icons?i=regex"></a>
-    <a href="https://www.latex-project.org/"><img alt="LaTeX" src="https://skillicons.dev/icons?i=latex"></a>
-</p>
-
-## 📚️ Estudando
-
-Tecnologias que tem dispertado o meu interesse e que venho estudando para aperfeiçoar o nível de construção dos meus projetos.
-
-<p align="center">
-    <a href="https://www.djangoproject.com/"><img alt="Django" src="https://skillicons.dev/icons?i=django"></a>
-</p>
-
-## 💻️ Sistemas Operacionais
-
-SOs e distros linux que já tive a experiência de utilizar no meu Workflow, no meu dia a dia utilizo o <a href="https://ubuntu.com/download/desktop">Ubuntu 24.04 LTS</a> sob o tema Kali Dark.
-
-<p align="center">
-    <a href="https://www.microsoft.com/windows/"><img alt="Windows" src="https://skillicons.dev/icons?i=windows"></a>
-    <a href="https://www.kernel.org/"><img alt="Linux" src="https://skillicons.dev/icons?i=linux"></a>
-    <a href="https://www.debian.org/"><img alt="Debian" src="https://skillicons.dev/icons?i=debian"></a>
-    <a href="https://ubuntu.com/"><img alt="Ubuntu" src="https://skillicons.dev/icons?i=ubuntu"></a>
-    <a href="https://www.kali.org/"><img alt="Kali" src="https://skillicons.dev/icons?i=kali"></a>
-    <a href="https://linuxmint.com/"><img alt="Mint" src="https://skillicons.dev/icons?i=mint"></a>
-</p>
-
-## 📋️ Organização
-
-Ferramentas que me auxiliam nas atividades acadêmicas e projetos pessoais. Organização sempre foi minha prioridade, seja em ambientes fisícos ou virtuais, vai além de uma lista de notas ou um post-it colorido, é uma forma de não perder o controle com o turbilhão de informações que nos atinge diáriamente.
-
-<p align="center">
-    <a href="https://code.visualstudio.com/"><img alt="VSCode" src="https://skillicons.dev/icons?i=vscode"></a>
-    <a href="https://git-scm.com/"><img alt="Git" src="https://skillicons.dev/icons?i=git"></a>
-    <a href="https://github.com/"><img alt="GitHub" src="https://skillicons.dev/icons?i=github"></a>
-    <a href="https://www.postman.com/"><img alt="Postman" src="https://skillicons.dev/icons?i=postman"></a>
-    <a href="https://www.notion.so/"><img alt="Notion" src="https://skillicons.dev/icons?i=notion"></a>
-    <a href="https://discord.com/"><img alt="Discord" src="https://skillicons.dev/icons?i=discord"></a>
-    <a href="https://obsidian.md/"><img alt="Obsidian" src="https://skillicons.dev/icons?i=obsidian"></a>
-    <a href="https://tasks.google.com/"><img alt="Google Tasks" src="https://cdn.simpleicons.org/googletasks" width="48" height="48"></a>
-    
-</p>
-
-## 🧠 Metas de Aprendizado
-
-Alguns frameworks e linguagens que tenho interesse em aprender assim que possível.
-
-<p align="center">
-    <a href="https://www.djangoproject.com/"><img alt="Django" src="https://skillicons.dev/icons?i=django"></a>
-    <a href="https://flask.palletsprojects.com/"><img alt="Flask" src="https://skillicons.dev/icons?i=flask"></a>
-    <a href="https://fastapi.tiangolo.com/"><img alt="FastAPI" src="https://skillicons.dev/icons?i=fastapi"></a>
-    <a href="https://www.postgresql.org/"><img alt="PostgreSQL" src="https://skillicons.dev/icons?i=postgresql"></a>
-    <a href="https://dart.dev/"><img alt="Dart" src="https://skillicons.dev/icons?i=dart"><a>
-    <a href="https://flutter.dev/"><img alt="Flutter" src="https://skillicons.dev/icons?i=flutter"></a>
+    <a href="https://developer.mozilla.org/pt-BR/docs/Web/HTML"><img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5"></a>
+    <a href="https://developer.mozilla.org/pt-BR/docs/Web/CSS"><img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3"></a>
+    <a href="https://angular.dev/"><img src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white" alt="Angular"></a>
+    <a href="https://getbootstrap.com/"><img src="https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white" alt="Bootstrap"></a>
+    <a href="https://www.markdownguide.org/"><img src="https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white" alt="Markdown"></a>
+    <a href="https://www.djangoproject.com/"><img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white" alt="Django"></a>
+    <a href="https://www.latex-project.org/"><img src="https://img.shields.io/badge/LaTeX-008080?style=for-the-badge&logo=latex&logoColor=white" alt="LaTeX"></a>
+    <a href="https://www.java.com/"><img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java"></a>
 </p>
 
 ## 📱 Contato
@@ -103,8 +107,7 @@ Alguns frameworks e linguagens que tenho interesse em aprender assim que possív
 Mais projetos irão aparecer aqui com o tempo, enquanto isso, que tal nos conectarmos? Sinta-se a vontade!
 
 <p align="center">
-    <a href="https://www.instagram.com/juan.ferreirax/"><img alt="Instagram" src="https://skillicons.dev/icons?i=instagram"></a>
-    <a href="https://www.linkedin.com/in/juan-pablo-ferreira-costa/"><img alt="Linkedin" src="https://skillicons.dev/icons?i=linkedin"></a>
-    <a href="mailto:juanpablofc8.0@gmail.com"><img alt="Email" src="./images/gmail.png" width="48" height="48"></a>
-    <a href="https://wa.me/5538999367561"><img alt="WhatsApp" src="./images/whatsapp.png" width="48" height="48"></a>
+    <a href="http://www.linkedin.com/in/juan-ferreirax"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+    <a href="mailto:juanpablofc8.0@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"></a>
+    <a href="https://www.instagram.com/juan_ferreirax/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"></a>
 </p>
