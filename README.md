@@ -14,10 +14,10 @@ Estudante do 7º período de Sistemas de Informação com grande interesse e foc
 
 ## ⭐️ Destaques e Projetos
 
-* 🔐 <a href="https://github.com/juan-ferreirax/hashcat-bruteforce-attack-analysis">Análise de Ataques de Força Bruta com o Software Hashcat</a>
-* 🧅 <a href="https://github.com/juan-ferreirax/tor-network-simulation">Simulação do funcionamento do trafego da rede tor</a>
-* 🌐 <a href="https://github.com/juan-ferreirax/network-scanner">Script para análise de aspectos relacionados a redes no Linux.</a>
-* 📜 <a href="https://github.com/juan-ferreirax/gerador-certificado">Gerador de Certificados em Angular</a>
+* 💬 <a href="https://github.com/juan-ferreirax/terminal-chat">Mensageiro CLI em python para redes locais</a>
+* 🔐 <a href="https://github.com/juan-ferreirax/hashcat-bruteforce-attack-analysis">Análise de ataques de força bruta com o software hashcat</a>
+* 🧅 <a href="https://github.com/juan-ferreirax/tor-network-simulation">Simulação do funcionamento do trafego da rede TOR</a>
+* 📜 <a href="https://github.com/juan-ferreirax/gerador-certificado">Gerador de certificados em angular</a>
 
 ## 🖥️ Infraestrutura Suporte Técnico
 
