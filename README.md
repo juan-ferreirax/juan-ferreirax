@@ -19,7 +19,7 @@ Estudante do 7º período de Sistemas de Informação com grande interesse e foc
 * 🧅 <a href="https://github.com/juan-ferreirax/tor-network-simulation">Simulação do funcionamento do trafego da rede TOR</a>
 * 📜 <a href="https://github.com/juan-ferreirax/gerador-certificado">Gerador de certificados em angular</a>
 
-## 🖥️ Infraestrutura Suporte Técnico
+## 🖥️ Suporte Técnico & Infraestrutura
 
 Possuo experiência sólida com suporte técnico, englobando manutenção de software, instalação e configuração de sistemas operacionais (Windows e Linux). Além disso, possuo entendimento e experiências consideráveis em  redes de computadores e ambientes virtualizados.
 
@@ -43,13 +43,13 @@ Softwares e tecnologias que possuo experiência sólida:
 
 ## 🚀 Scripting & Automação (DevSec)
 
-Linguagens e ferramentas aplicadas no desenvolvimento de automações, utilitários de infraestrutura e análises estruturadas voltadas para o contexto de segurança.
+Linguagens e ferramentas aplicadas no desenvolvimento análises estruturadas, utilitários de infraestrutura e automações voltadas para o contexto de segurança.
 
 <p align="center">
     <a href="https://www.python.org/"><img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"></a>
     <a href="https://www.gnu.org/software/bash/"><img src="https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white" alt="Bash"></a>
-    <a href="https://developer.mozilla.org/pt-BR/docs/Web/JavaScript"><img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript"></a>
     <a href="https://www.typescriptlang.org/"><img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript"></a>
+    <a href="https://developer.mozilla.org/pt-BR/docs/Web/JavaScript"><img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript"></a>
 </p>
 
 ## 🔍 Pesquisa e Aprofundamento em Cibersegurança
