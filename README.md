@@ -74,16 +74,18 @@ Ferramentas e tecnologias que uso de apoio para meus estudos de segurança ofens
 Ferramentas que auxiliam na gestão de atividades acadêmicas, centralização de informações e produtividade diária:
 
 <p align="center">
-    <a href="https://bitwarden.com/"><img src="https://img.shields.io/badge/Bitwarden-175DDB?style=for-the-badge&logo=bitwarden&logoColor=white" alt="Bitwarden"></a>
     <a href="https://obsidian.md/"><img src="https://img.shields.io/badge/Obsidian-483699?style=for-the-badge&logo=obsidian&logoColor=white" alt="Obsidian"></a>
     <a href="https://www.notion.so/"><img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white" alt="Notion"></a>
     <a href="https://discord.com/"><img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord"></a>
     <a href="https://tasks.google.com/"><img src="https://img.shields.io/badge/Google_Tasks-4285F4?style=for-the-badge&logo=googletasks&logoColor=white" alt="Google Tasks"></a>
-    <a href="https://code.visualstudio.com/"><img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white" alt="VS Code"></a>
+    <a href="https://notebooklm.google/"><img src="https://img.shields.io/badge/NotebookLM-4285F4?style=for-the-badge&logo=google&logoColor=white" alt="NotebookLM"></a>
+</p>
+<p align="center">
+    <a href="https://bitwarden.com/"><img src="https://img.shields.io/badge/Bitwarden-175DDB?style=for-the-badge&logo=bitwarden&logoColor=white" alt="Bitwarden"></a>
+    <a href="https://bitwarden.com/products/authenticator/"><img src="https://img.shields.io/badge/Bitwarden_Authenticator-175DDB?style=for-the-badge&logo=bitwarden&logoColor=white" alt="Bitwarden Authenticator"></a>
     <a href="https://git-scm.com/"><img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git"></a>
     <a href="https://github.com/"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"></a>
-    <a href="https://notebooklm.google/"><img src="https://img.shields.io/badge/NotebookLM-4285F4?style=for-the-badge&logo=google&logoColor=white" alt="NotebookLM"></a>
-    
+    <a href="https://code.visualstudio.com/"><img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white" alt="VS Code"></a>
 </p>
 
 ## ⚙️ Outras tecnologias que tenho experiência
