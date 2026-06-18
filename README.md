@@ -36,10 +36,11 @@ Softwares e tecnologias que possuo experiência sólida:
 <p align="center">
     <a href="https://www.gnome.org/gnome-3/"><img src="https://img.shields.io/badge/Terminal-4D4D4D?style=for-the-badge&logo=gnometerminal&logoColor=white" alt="Terminal"></a>
     <a href="https://syncthing.net/"><img src="https://img.shields.io/badge/Syncthing-2D9CDB?style=for-the-badge&logo=syncthing&logoColor=white" alt="Syncthing"></a>
+    <a href="https://anydesk.com/"><img src="https://img.shields.io/badge/AnyDesk-EA4335?style=for-the-badge&logo=anydesk&logoColor=white" alt="AnyDesk"></a>
+    <a href="https://www.teamviewer.com/"><img src="https://img.shields.io/badge/TeamViewer-004680?style=for-the-badge&logo=teamviewer&logoColor=white" alt="TeamViewer"></a>
     <a href="https://www.vmware.com/"><img src="https://img.shields.io/badge/VMware-60B932?style=for-the-badge&logo=VMware&logoColor=white" alt="VMware"></a>
     <a href="https://www.virtualbox.org/"><img src="https://img.shields.io/badge/VirtualBox-183A61?style=for-the-badge&logo=VirtualBox&logoColor=white" alt="VirtualBox"></a>
-    <a href="https://www.teamviewer.com/"><img src="https://img.shields.io/badge/TeamViewer-004680?style=for-the-badge&logo=teamviewer&logoColor=white" alt="TeamViewer"></a>
-    <a href="https://anydesk.com/"><img src="https://img.shields.io/badge/AnyDesk-EA4335?style=for-the-badge&logo=anydesk&logoColor=white" alt="AnyDesk"></a>
+    
 </p>
 
 ## 🚀 Scripting & Automação (DevSec)
