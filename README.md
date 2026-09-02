@@ -1,6 +1,6 @@
 # Bem-vindo, eu sou o Juan! 👋🏼
 
-Estudante do 8º período de Sistemas de Informação com grande interesse e foco em Cibersegurança, especialmente na área de Red Team e Segurança Ofensiva. Utilizo a programação de forma estratégica para a construção de scripts, análise de dados e otimização de processos. Meu objetivo é usar a programação como um diferencial técnico para identificar vulnerabilidades, automatizar tarefas e proteger ambientes digitais.
+Estudante do 8º período de Sistemas de Informação, com foco em Cibersegurança, especialmente Red Team e Segurança Ofensiva. Utilizo a programação para analisar, testar e entender vulnerabilidades na prática, buscando aplicar esse conhecimento na proteção de ambientes digitais.
 
 ## 👤 Sobre mim
 
@@ -17,29 +17,6 @@ Estudante do 8º período de Sistemas de Informação com grande interesse e foc
 * 🔐 <a href="https://github.com/juan-ferreirax/hashcat-bruteforce-attack-analysis">Análise de ataques de força bruta com o software hashcat</a>
 * 🧅 <a href="https://github.com/juan-ferreirax/tor-network-simulation">Simulação do funcionamento do trafego da rede TOR</a>
 
-## 🖥️ Suporte Técnico & Infraestrutura
-
-Possuo experiência sólida com suporte técnico, englobando manutenção de software, instalação e configuração de sistemas operacionais (Windows e Linux). Além disso, possuo entendimento e experiências consideráveis em  redes de computadores e ambientes virtualizados.
-
-Softwares e tecnologias que possuo experiência sólida:
-<p align="center">
-    <a href="https://www.microsoft.com/windows/"><img src="https://img.shields.io/badge/Windows-0078D7?style=for-the-badge&logo=microsoft&logoColor=white" alt="Windows"></a>
-    <a href="https://www.kernel.org/"><img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux"></a>
-    <a href="https://ubuntu.com/download/desktop"><img src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white" alt="Ubuntu"></a>
-    <a href="https://www.kali.org/"><img src="https://img.shields.io/badge/Kali_Linux-000000?style=for-the-badge&logo=kalilinux&logoColor=white" alt="Kali Linux"></a>
-    <a href="https://linuxmint.com/"><img src="https://img.shields.io/badge/Linux_Mint-87CF3E?style=for-the-badge&logo=linuxmint&logoColor=black" alt="Linux Mint"></a>
-    <a href="https://www.debian.org/"><img src="https://img.shields.io/badge/Debian-A81D33?style=for-the-badge&logo=debian&logoColor=white" alt="Debian"></a>
-</p>
-
-<p align="center">
-    <a href="https://www.gnome.org/gnome-3/"><img src="https://img.shields.io/badge/Terminal-4D4D4D?style=for-the-badge&logo=gnometerminal&logoColor=white" alt="Terminal"></a>
-    <a href="https://syncthing.net/"><img src="https://img.shields.io/badge/Syncthing-2D9CDB?style=for-the-badge&logo=syncthing&logoColor=white" alt="Syncthing"></a>
-    <a href="https://anydesk.com/"><img src="https://img.shields.io/badge/AnyDesk-EA4335?style=for-the-badge&logo=anydesk&logoColor=white" alt="AnyDesk"></a>
-    <a href="https://www.teamviewer.com/"><img src="https://img.shields.io/badge/TeamViewer-004680?style=for-the-badge&logo=teamviewer&logoColor=white" alt="TeamViewer"></a>
-    <a href="https://www.vmware.com/"><img src="https://img.shields.io/badge/VMware-60B932?style=for-the-badge&logo=VMware&logoColor=white" alt="VMware"></a>
-    <a href="https://www.virtualbox.org/"><img src="https://img.shields.io/badge/VirtualBox-183A61?style=for-the-badge&logo=VirtualBox&logoColor=white" alt="VirtualBox"></a>
-    
-</p>
 
 ## 🚀 Scripting & Automação (DevSec)
 
@@ -64,6 +41,29 @@ Ferramentas e tecnologias que uso de apoio para meus estudos de segurança ofens
 * **Burp Suite:** Focado na identificação de vulnerabilidades em aplicações web e testes de intrusão.
 * **SQL:** Mapeamento, entendimento e testes de mitigação contra falhas de injeção (SQL Injection).
 
+## 🖥️ Suporte Técnico & Infraestrutura
+
+Possuo experiência sólida com suporte técnico, englobando manutenção de software, instalação e configuração de sistemas operacionais (Windows e Linux). Além disso, possuo entendimento e experiências consideráveis em  redes de computadores e ambientes virtualizados.
+
+Softwares e tecnologias que possuo experiência sólida:
+<p align="center">
+    <a href="https://www.microsoft.com/windows/"><img src="https://img.shields.io/badge/Windows-0078D7?style=for-the-badge&logo=microsoft&logoColor=white" alt="Windows"></a>
+    <a href="https://www.kernel.org/"><img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux"></a>
+    <a href="https://ubuntu.com/download/desktop"><img src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white" alt="Ubuntu"></a>
+    <a href="https://www.kali.org/"><img src="https://img.shields.io/badge/Kali_Linux-000000?style=for-the-badge&logo=kalilinux&logoColor=white" alt="Kali Linux"></a>
+    <a href="https://linuxmint.com/"><img src="https://img.shields.io/badge/Linux_Mint-87CF3E?style=for-the-badge&logo=linuxmint&logoColor=black" alt="Linux Mint"></a>
+    <a href="https://www.debian.org/"><img src="https://img.shields.io/badge/Debian-A81D33?style=for-the-badge&logo=debian&logoColor=white" alt="Debian"></a>
+</p>
+
+<p align="center">
+    <a href="https://www.gnome.org/gnome-3/"><img src="https://img.shields.io/badge/Terminal-4D4D4D?style=for-the-badge&logo=gnometerminal&logoColor=white" alt="Terminal"></a>
+    <a href="https://syncthing.net/"><img src="https://img.shields.io/badge/Syncthing-2D9CDB?style=for-the-badge&logo=syncthing&logoColor=white" alt="Syncthing"></a>
+    <a href="https://anydesk.com/"><img src="https://img.shields.io/badge/AnyDesk-EA4335?style=for-the-badge&logo=anydesk&logoColor=white" alt="AnyDesk"></a>
+    <a href="https://www.teamviewer.com/"><img src="https://img.shields.io/badge/TeamViewer-004680?style=for-the-badge&logo=teamviewer&logoColor=white" alt="TeamViewer"></a>
+    <a href="https://www.vmware.com/"><img src="https://img.shields.io/badge/VMware-60B932?style=for-the-badge&logo=VMware&logoColor=white" alt="VMware"></a>
+    <a href="https://www.virtualbox.org/"><img src="https://img.shields.io/badge/VirtualBox-183A61?style=for-the-badge&logo=VirtualBox&logoColor=white" alt="VirtualBox"></a>
+    
+</p>
 
 ## 📋️ Organização
 
@@ -106,7 +106,7 @@ Ferramentas que auxiliam na gestão de atividades acadêmicas, centralização d
 
 ## 📱 Contato
 
-Quer trocar uma ideia sobre segurança, redes ou os projetos? Só entrar em contato :)
+Quer trocar uma ideia sobre segurança, redes ou os projetos? É só entrar em contato :)
 
 <p align="center">
     <a href="http://www.linkedin.com/in/juan-ferreirax"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
