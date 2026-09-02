@@ -1,6 +1,6 @@
 # Bem-vindo, eu sou o Juan! 👋🏼
 
-Estudante do 7º período de Sistemas de Informação com grande interesse e foco em Cibersegurança, especialmente na área de Red Team e Segurança Ofensiva. Utilizo a programação de forma estratégica para a construção de scripts, análise de dados e otimização de processos. Meu objetivo é usar a programação como um diferencial técnico para identificar vulnerabilidades, automatizar tarefas e proteger ambientes digitais.
+Estudante do 8º período de Sistemas de Informação com grande interesse e foco em Cibersegurança, especialmente na área de Red Team e Segurança Ofensiva. Utilizo a programação de forma estratégica para a construção de scripts, análise de dados e otimização de processos. Meu objetivo é usar a programação como um diferencial técnico para identificar vulnerabilidades, automatizar tarefas e proteger ambientes digitais.
 
 ## 👤 Sobre mim
 
@@ -10,14 +10,12 @@ Estudante do 7º período de Sistemas de Informação com grande interesse e foc
     🛡️ Certificação <strong><a href="assets/certificates/google_cybersecurity.pdf">Google Cybersecurity Professional Certificate</a></strong>.
 </p>
 
-<img src="assets/images/password.jpg" width="1000px" height="250px" alt="Banner de Segurança"/>
+<img src="assets/images/banner.jpeg" width="1000px" height="250px" alt="Banner de Segurança"/>
 
 ## ⭐️ Destaques e Projetos
 
-* 💬 <a href="https://github.com/juan-ferreirax/terminal-chat">Mensageiro CLI em python para redes locais</a>
 * 🔐 <a href="https://github.com/juan-ferreirax/hashcat-bruteforce-attack-analysis">Análise de ataques de força bruta com o software hashcat</a>
 * 🧅 <a href="https://github.com/juan-ferreirax/tor-network-simulation">Simulação do funcionamento do trafego da rede TOR</a>
-* 📜 <a href="https://github.com/juan-ferreirax/gerador-certificado">Gerador de certificados em angular</a>
 
 ## 🖥️ Suporte Técnico & Infraestrutura
 
@@ -50,8 +48,6 @@ Linguagens e ferramentas aplicadas no desenvolvimento análises estruturadas, ut
 <p align="center">
     <a href="https://www.python.org/"><img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"></a>
     <a href="https://www.gnu.org/software/bash/"><img src="https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white" alt="Bash"></a>
-    <a href="https://www.typescriptlang.org/"><img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript"></a>
-    <a href="https://developer.mozilla.org/pt-BR/docs/Web/JavaScript"><img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript"></a>
 </p>
 
 ## 🔍 Pesquisa e Aprofundamento em Cibersegurança
@@ -99,18 +95,18 @@ Ferramentas que auxiliam na gestão de atividades acadêmicas, centralização d
 <p align="center">
     <a href="https://developer.mozilla.org/pt-BR/docs/Web/HTML"><img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5"></a>
     <a href="https://developer.mozilla.org/pt-BR/docs/Web/CSS"><img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3"></a>
+    <a href="https://developer.mozilla.org/pt-BR/docs/Web/JavaScript"><img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript"></a>
+    <a href="https://www.typescriptlang.org/"><img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript"></a>
     <a href="https://angular.dev/"><img src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white" alt="Angular"></a>
-    <a href="https://getbootstrap.com/"><img src="https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white" alt="Bootstrap"></a>
     <a href="https://www.markdownguide.org/"><img src="https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white" alt="Markdown"></a>
     <a href="https://www.djangoproject.com/"><img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white" alt="Django"></a>
     <a href="https://www.latex-project.org/"><img src="https://img.shields.io/badge/LaTeX-008080?style=for-the-badge&logo=latex&logoColor=white" alt="LaTeX"></a>
-    <a href="https://www.java.com/"><img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java"></a>
     <a href="https://www.postman.com/downloads/"><img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" alt="Postman"></a>
 </p>
 
 ## 📱 Contato
 
-Mais projetos irão aparecer aqui com o tempo, enquanto isso, que tal nos conectarmos? Sinta-se a vontade!
+Quer trocar uma ideia sobre segurança, redes ou os projetos? Só entrar em contato :)
 
 <p align="center">
     <a href="http://www.linkedin.com/in/juan-ferreirax"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
