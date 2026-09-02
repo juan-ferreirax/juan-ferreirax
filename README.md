@@ -84,7 +84,7 @@ Ferramentas que auxiliam na gestão de atividades acadêmicas, centralização d
     <a href="https://code.visualstudio.com/"><img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white" alt="VS Code"></a>
 </p>
 
-## ⚙️ Outras tecnologias que tenho experiência
+## ⚙️ Conhecimentos e Tecnologias Complementares
 
 <p align="center">
     <a href="https://github.com/anuraghazra/github-readme-stats">
